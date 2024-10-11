@@ -10,3 +10,4 @@ for i in range(2, n+1) :
 print(m[n])
 
 # for 문
+# recursion error 발생할 때
